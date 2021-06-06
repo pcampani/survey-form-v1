@@ -59,4 +59,4 @@ class SurveyModel extends Model {
 	}
 }
 
-module.exports = new SurveyModel;
+module.exports = SurveyModel;
